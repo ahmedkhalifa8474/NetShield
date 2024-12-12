@@ -8,8 +8,8 @@ Write-Host """
 """ -ForegroundColor Cyan
 
 # Set the API keys for AbuseIPDB and VirusTotal
-$AbuseIPDBApiKey = "59fcf07b7ea2eee5abd65a56df423c2f1880d0a85c2a2facca1f64f021a45003a3ac0371288358b5"
-$VirusTotalApiKey = "e20703e48bc155a08acd59b0aba44f66446d88c6fdadb6f690c0bf819d556e0c"
+$AbuseIPDBApiKey = "#############2a2facca1f64f021a45003a3ac0371288358b5"
+$VirusTotalApiKey = "############46d88c6fdadb6f690c0bf819d556e0c"
 
 # Ensure API keys are set
 if (-not $AbuseIPDBApiKey -or -not $VirusTotalApiKey) {

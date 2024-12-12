@@ -34,16 +34,15 @@ This PowerShell script is designed to help identify suspicious IPs and domains i
 
 
  ```bash
-   git clone https://github.com/your-username/NetShield.git
+  git clone https://github.com/ahmedkhalifa8474/NetShield.git
 
-```bash
-Run the Script:
+
+
 
 Open PowerShell as Administrator.
 
 Navigate to the directory where the script is located.
 
-Run the script:
+Run the script
 
 
-   git clone https://github.com/ahmedkhalifa8474/NetShield.git
